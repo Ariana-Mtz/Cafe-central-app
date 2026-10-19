@@ -11,7 +11,8 @@ sencillez y rapidez.
 ## FUNCIONALIDADES PRINCIPALES
 - La aplicación contará con un formulario de registro, el cual permitirá a los
  clientes realizar su registro para acceder a ella
-- Menú para consultar los productos que se venderán 
+- Menú para consultar los productos que se venderán
+- Consultar precios
 - Y la sección para realizar pedidos
 
 ## INTEGRANTES DEL EQUIPO
