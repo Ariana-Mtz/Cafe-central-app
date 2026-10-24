@@ -18,7 +18,7 @@ sencillez y rapidez.
 ## INTEGRANTES DEL EQUIPO
 - Product Owner: Sandra Veronica Ortíz García
 - Scrum Master: Ariana Villalba Martínez
-- Desarrolladores : Irene Lourdes Cortés Martínez y Maleni Guadalupe Rangel Santiago
+- Desarrollador: Irene Lourdes Cortés Martínez 
 
 ## TECNOLOGÍAS QUE PODRÍAN UTILIZARSE
 - HTML: Para crear el código de la página
